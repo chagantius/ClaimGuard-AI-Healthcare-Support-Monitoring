@@ -70,3 +70,23 @@ This project demonstrates practical skills in:
 ClaimGuard AI is an independent educational portfolio project. It uses synthetic healthcare data and is not affiliated with Smart Data Solutions or integrated with any real healthcare claims processing system.
 
 It is a functional prototype, not a production-ready healthcare application.
+
+## Application Screenshots
+
+### Operations Dashboard
+![Operations Dashboard](screenshots/Operations.png)
+
+### Claim Investigation
+![Claim Investigation](screenshots/claim.png)
+
+### Root-Cause Analysis
+![Root-Cause Analysis](screenshots/root_cause.png)
+
+### SLA Monitoring
+![SLA Monitoring](screenshots/Sla_Monitoring.png)
+
+### Recovery Monitoring
+![Recovery Monitoring](screenshots/recovery.png)
+
+### Incident Actions
+![Incident Actions](screenshots/incident_action.png)
